@@ -2,7 +2,7 @@ title: 'Head-Space. '
 baseurl: /
 permalink: '/:title/'
 layout_style: overflow
-palette: blue
+palette: violet
 header:
   bg: dark
   has_nav: true
