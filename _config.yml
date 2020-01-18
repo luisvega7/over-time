@@ -4,7 +4,7 @@ permalink: '/:title/'
 layout_style: overflow
 palette: violet
 header:
-  bg: dark
+  bg: light
   has_nav: true
   has_social: true
   profile_img: /images/thumb.jpg
