@@ -5,8 +5,8 @@ layout_style: overflow
 palette: violet
 header:
   bg: light
-  has_nav: true
-  has_social: true
+  has_nav: false
+  has_social: false
   profile_img: /images/thumb.jpg
   tagline: ''
   title: ''
