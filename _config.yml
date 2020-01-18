@@ -1,12 +1,12 @@
 title: 'Head-Space. '
 baseurl: /
 permalink: '/:title/'
-layout_style: overflow
+layout_style: default
 palette: violet
 header:
   bg: light
-  has_nav: false
-  has_social: false
+  has_nav: true
+  has_social: true
   profile_img: /images/thumb.jpg
   tagline: ''
   title: ''
